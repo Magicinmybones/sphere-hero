@@ -1,5 +1,5 @@
 /*
-!/index.html
-!/assets/
-!/assets/**
+!/public/
+!/public/**
 !/.gitignore
+!/wrangler.jsonc
